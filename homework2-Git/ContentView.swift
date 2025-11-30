@@ -27,3 +27,6 @@ struct ContentView: View {
 // git pull - Забирает изменения с удаленного репозитория в локальный
 
 // git clone - Клонирует проект с удаленного репозитория
+
+let name = "Pavel"
+let age = 25
