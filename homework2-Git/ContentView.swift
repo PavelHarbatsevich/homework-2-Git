@@ -22,3 +22,5 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+//  git push - Заливает текущие локальные коммиты в удаленный репозиторий
