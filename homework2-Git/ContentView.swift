@@ -31,3 +31,5 @@ struct ContentView: View {
 let name = "Pavel"
 let age = 25
 let myFavoriteFilm = "Seven"
+
+let myFavoriteBook = "1984"
